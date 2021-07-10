@@ -1,1 +1,1 @@
-# OpenCV-Projects
+Experimenting Face recognition with OpenCV
